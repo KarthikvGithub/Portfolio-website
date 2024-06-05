@@ -4,18 +4,8 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
-// const fname = "Karthik";
-// const lname = "Valdas";
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  // <div>
-  //   <h1 className="heading">Food List of {fname} {lname}</h1>
-  //   <ul>
-  //     <li>Bacon</li>
-  //     <li>Noodles</li>
-  //     <li>Fries</li>
-  //   </ul>
-  // </div>
   <React.StrictMode>
     <App />
   </React.StrictMode>
