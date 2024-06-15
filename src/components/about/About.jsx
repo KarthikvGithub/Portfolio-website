@@ -2,7 +2,7 @@ import React from 'react';
 import "./about.css";
 import AboutImg from "../../assets/about.jpg";
 import CV from "../../assets/Karthik_Valdas_Resume.pdf";
-import Info from './Info';
+import Info from './Info.jsx';
 
 const About = () => {
   return (

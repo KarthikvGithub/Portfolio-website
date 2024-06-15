@@ -1,9 +1,9 @@
 import React from 'react';
 import "./skills.css";
-import Frontend from './Frontend';
-import Backend from './Backend';
-import Electrical from './Electrical';
-import Others from './Others';
+import Frontend from './Frontend.jsx';
+import Backend from './Backend.jsx';
+import Electrical from './Electrical.jsx';
+import Others from './Others.jsx';
 
 const Skills = () => {
   return (
