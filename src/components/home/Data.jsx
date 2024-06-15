@@ -56,7 +56,7 @@ const Data = () => {
                 </svg>
         </h1>
         <h3 className="home__subtitle">Web Developer</h3>
-        <p className="home__description">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sapiente deserunt quas nisi inventore odit qui amet eius voluptates totam maxime.</p>
+        <p className="home__description">"A designer knows he has achieved perfection not when there is nothing left to add, but when there is nothing left to take away”</p>
 
         <a href="#contact" className="button button-flex">
           Say Hello

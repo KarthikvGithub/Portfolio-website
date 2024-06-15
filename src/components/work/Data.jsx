@@ -37,7 +37,7 @@ export const projectsData = [
     {
       id: 5,
       image: Work5,
-      title: "Alerts",
+      title: "Alerts Frontend",
       category: "web",
       link: "https://github.com/KarthikvGithub/Alerts-Frontend",
     },
