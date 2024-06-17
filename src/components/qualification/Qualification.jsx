@@ -65,7 +65,7 @@ const Qualification = () => {
                             <h3 className="qualification__title">Class 10</h3>
                             <span className="qualification__subtitle">Mahabubnagar Grammar<br/>GPA: 9.8</span>
                             <div className="qualification__calender">
-                                <i class="uil uil-calendar-alt"></i> 2020
+                                <i class="uil uil-calendar-alt"></i> 2018
                             </div>
                         </div>
 
@@ -100,7 +100,7 @@ const Qualification = () => {
                             <h3 className="qualification__title">Web Developer</h3>
                             <span className="qualification__subtitle">Intern<br/>CodSoft</span>
                             <div className="qualification__calender">
-                                <i class="uil uil-calendar-alt"></i> 2023
+                                <i class="uil uil-calendar-alt"></i> Jul - Aug 2023
                             </div>
                         </div>
 

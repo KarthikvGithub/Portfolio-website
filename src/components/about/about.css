@@ -87,7 +87,7 @@
 }
   
 /* For small devices */
-@media screen and (max-width: 350px) {
+@media screen and (max-width: 400px) {
     .about__info {
         grid-template-columns: repeat(2, 1fr);
     }
